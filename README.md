@@ -1,1 +1,2 @@
 # Data-Collection-Challenge
+In this challenge, I was given a website regarding news about the planet Mars. I collected the data from the page by web-scraping, and formatting the data to a readable version including article title and article previews. I was also given a website regarding facts about Mars and its weather as well as the Martian calendar. I scraped the website for its data and created a DataFrame to find answers regarding temperature, pressure, and how many days are in each Martian month and Martian year; also adding in data visuals using Matplotlib.
